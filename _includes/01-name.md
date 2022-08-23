@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Zachariah P. Lamb
+### Rising CS Senior
