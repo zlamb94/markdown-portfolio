@@ -1,0 +1,4 @@
+* Germany
+  * Ramstein
+* Italy
+* Switzerland
