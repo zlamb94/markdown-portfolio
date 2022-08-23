@@ -1,1 +1,1 @@
-[LinkedIn] (https://www.linkedin.com/in/zachariah-lamb/)
+[LinkedIn](https://www.linkedin.com/in/zachariah-lamb)
